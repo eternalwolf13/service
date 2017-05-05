@@ -93,9 +93,7 @@ p{
 .container-login{
 	max-width: 350px;
 }
-.container-login header{
-	height:35px;
-}
+
 .col-login{
 	width: 100%; padding: 0;
 }
